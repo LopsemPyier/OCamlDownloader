@@ -23,7 +23,7 @@ cd OCamlDownloader
  
  ## Notes
  
- There is an third script in here to take the ocaml binary that was install with MacCaml (which is version 4.13 as I am writing this) and configure WinCaml to use it (because it ship with version 4.08)
+ There is a third script in here to take the ocaml binary that was install with MacCaml (which is version 4.13 as I am writing this) and configure WinCaml to use it (because it ship with version 4.08)
  
  **You must have run the 2 others scripts before doing it.**
  
@@ -32,4 +32,4 @@ cd OCamlDownloader
  ./change_wincaml_ocaml_version_to_maccaml_one.sh
  ```
  
- The `cleash.sh` script is mostly for testing purposes so only run it if you know what you are doing.
+ The `clean.sh` script is mostly for testing purposes so only run it if you know what you are doing.
