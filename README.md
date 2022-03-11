@@ -2,7 +2,7 @@
 
 ## What is it ?
 
-This is just 2 scripts to download and setup properly MacCaml and WinCaml on MacOS to code in OCaml.
+This is just 2 scripts to download and setup properly [MacCaml](https://jean-mouric.pagesperso-orange.fr/index.html#MacCaml) and [WinCaml](https://jean-mouric.pagesperso-orange.fr/index.html#binaires) on MacOS to code in OCaml.
 
 ## Usage
 
