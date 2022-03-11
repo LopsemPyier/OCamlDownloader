@@ -19,4 +19,4 @@ mkdir -p /Applications/WinCaml/.$USER
 echo "/Applications/WinCaml/ocaml4" > /Applications/WinCaml/.$USER/ocamlbase.txt
 
 echo "Done.\n\n\t\t== WinCaml is successfully install to your computer=="
-echo "\nYou may need to switch from Caml Lite to OCaml in the menu bar of WinCaml under the menu CamlTop."
+echo "\nYou may need to switch from Caml Light to OCaml in the menu bar of WinCaml under the menu CamlTop."
